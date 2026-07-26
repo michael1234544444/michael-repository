@@ -1,9 +1,10 @@
-#  Daily learning
+#  Daily gunning
 ## morning planning
 - [] play valorant
 - [] eat shit
 - [x] wake up
 - [] save the world
+- [x] a pu pic
 <img alt= "Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Review
 ```bash
